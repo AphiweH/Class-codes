@@ -1,3 +1,6 @@
+<?php 
+	echo "hello world" 
+	?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -7,13 +10,7 @@
 </head>
 <body>
    
-    <h1><?php 
-	
-	
-	echo "hello world" 
-	
-	
-	?></h1>
+    <h1></h1>
 
 </body>
 </html>
